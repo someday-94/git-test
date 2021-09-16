@@ -1,5 +1,6 @@
 시작
 main 작성 함
 TEST 브런치 작성
+TEST2 브런치 작성
 TEST 브런치 작성 2번째
 main 작성 함 2번째
